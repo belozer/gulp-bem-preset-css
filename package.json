@@ -1,0 +1,27 @@
+{
+  "name": "gulp-bem-preset-css",
+  "version": "0.0.1",
+  "description": "Preset for build CSS with gulp-bem",
+  "main": "lib/index.js",
+  "author": "Sergey Belozyorcev",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.5.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-stylus": "^2.6.0",
+    "lost": "^7.1.1",
+    "pobem": "^1.1.2",
+    "postcss-calc": "^5.3.1",
+    "postcss-css-variables": "^0.6.0",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-each": "^0.9.3",
+    "postcss-for": "^2.1.1",
+    "postcss-import": "^8.2.0",
+    "postcss-media-minmax": "^2.1.2",
+    "postcss-nested": "^1.0.0",
+    "postcss-svg": "^1.0.6"
+  }
+}

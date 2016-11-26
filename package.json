@@ -1,6 +1,6 @@
 {
   "name": "gulp-bem-preset-css",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Preset for build CSS with gulp-bem",
   "main": "lib/index.js",
   "author": "Sergey Belozyorcev",
